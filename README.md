@@ -58,7 +58,7 @@ Subtraction:
 
 Example of errors:
 
-![alt text](divv.JPG)
+![alt text](divv.png)
 
 ![alt text](string.JPG)
 
