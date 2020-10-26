@@ -1,5 +1,3 @@
-# Calculator
-
 Create Your very own Calculator!
 
 # Table of contents
