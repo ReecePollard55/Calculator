@@ -57,6 +57,14 @@ Subtraction:
 * Dividing by a zero will result in an error.
 * Entering words/strings or anything that is not an integer will result in an error. 
 
+Example of errors:
+
+![alt text](https://github.com/ReecePollard55/Images/blob/main/division.JPG)
+
+![alt text](https://github.com/ReecePollard55/Images/blob/main/string.JPG)
+
+
+
 # Installation
 
 Click [here](https://github.com/ReecePollard55/Calculator/blob/gh-pages/src/solution/Calculator.java) to access the code necesary to run the Calculator.
