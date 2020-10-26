@@ -10,8 +10,9 @@ Create Your very own Calculator!
 4. Basic Instruction
 5. Things to Avoid
 6. Installation
-7. Support Information
-8. License
+7. Contribute
+8. Support Information
+9. License
 
 # Introduction
 
@@ -69,6 +70,10 @@ Example of errors:
 
 Click [here](https://github.com/ReecePollard55/Calculator/blob/gh-pages/src/solution/Calculator.java) to access the code necesary to run the Calculator.
 This code can also be found in the solution folder under this pathway: Calculator/src/solution/Calculator.java
+
+# Contribute
+
+If you have any problems with the code or any suggestions to improve upon it please submit your feedback [here](https://github.com/ReecePollard55/Calculator/issues).
 
 # Support Information
 
