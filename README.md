@@ -59,7 +59,7 @@ Subtraction:
 
 Example of errors:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/division.JPG)
+![alt text](https://github.com/ReecePollard55/Images/blob/main/div%20by%200.JPG)
 
 ![alt text](https://github.com/ReecePollard55/Images/blob/main/string.JPG)
 
