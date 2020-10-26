@@ -1,4 +1,4 @@
-Create Your very own Calculator!
+Create your very own Calculator!
 
 # Table of contents
 
