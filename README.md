@@ -29,19 +29,19 @@ Here are some exmaples of input and output using the various mathematical operat
 
 Multiplication:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/Calculator.JPG)
+![alt text](Calculator.JPG)
 
 Division:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/division.JPG)
+![alt text](division.JPG)
 
 Addition:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/Addition.JPG)
+![alt text](Addition.JPG)
 
 Subtraction:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/Subtraction.JPG)
+![alt text](Subtraction.JPG)
 
 # Basic Instruction
 
@@ -58,9 +58,9 @@ Subtraction:
 
 Example of errors:
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/div%20by%200.JPG)
+![alt text](div%20by%200.JPG)
 
-![alt text](https://github.com/ReecePollard55/Images/blob/main/string.JPG)
+![alt text](string.JPG)
 
 
 
