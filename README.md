@@ -54,7 +54,7 @@ Subtraction:
 
 # Things to Avoid 
 
-* Dividing by a zero will result in an error.
+* Dividing by zero will result in an error.
 * Entering words/strings or anything that is not an integer will result in an error. 
 
 Example of errors:
