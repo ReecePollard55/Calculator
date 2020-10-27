@@ -14,18 +14,17 @@ Create your very own Calculator!
 
 # Introduction
 
-This is documentation for a program that creates a basic calculator for the user to use. 
-The user will need a working installed java runtime enviornment to run the calculator for themselves. 
+This is documentation for a program that creates a basic calculator for the user to perform basic mathematical operations. The user will need a working installed java runtime environment to run the calculator for themselves. 
 
 # Features
 
 * Allows User to input integers.
-* Allows User to perfrom basic mathematic computations such as multiplication, division, addition, and subtraction.
+* Allows User to perform basic mathematic computations such as multiplication, division, addition, and subtraction.
 * Prints the correct output based on the Users input and mathematic operation. 
 
 # Examples
 
-Here are some exmaples of input and output using the various mathematical operations provided in the created Calculator.
+Here are some examples of input and output using the various mathematical operations provided in the created Calculator.
 
 Multiplication:
 
@@ -46,9 +45,9 @@ Subtraction:
 # Basic Instruction
 
 1. Install the application and run the provided code.
-2. Run Calcuilator.java.
-3. Enter integers in the provided whte textboxes.
-4. Click the buttons to preform basic mathematical operations. 
+2. Run Calculator.java.
+3. Enter integers in the provided white textboxes.
+4. Click the buttons to perform basic mathematical operations. 
 5. The user should then be able to observe the given output.
 
 # Things to Avoid 
@@ -66,7 +65,7 @@ Example of errors:
 
 # Installation
 
-Click [here](https://github.com/ReecePollard55/Calculator/blob/gh-pages/src/solution/Calculator.java) to access the code necesary to run the Calculator.
+Click [here](https://github.com/ReecePollard55/Calculator/blob/gh-pages/src/solution/Calculator.java) to access the code necessary to run the Calculator.
 This code can also be found in the solution folder under this pathway: Calculator/src/solution/Calculator.java
 
 # Contribute
