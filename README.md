@@ -5,11 +5,11 @@ Create your very own Calculator!
 1. [Introduction](#Introduction)
 2. [Features](#Features)
 3. [Examples](#Examples)
-4. [Basic Instruction](#Basic_Instruction)
-5. [Things to Avoid](#Things_to_Avoid)
+4. [Basic Instruction](#Basic-Instruction)
+5. [Things to Avoid](#Things-to-Avoid)
 6. [Installation](#Installation)
 7. [Contribute](#Contribute)
-8. [Support Information](#Support_Information)
+8. [Support Information](#Support-Information)
 9. [License](#License)
 
 # Introduction
