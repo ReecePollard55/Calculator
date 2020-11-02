@@ -3,14 +3,14 @@ Create your very own Calculator!
 # Table of contents
 
 1. [Introduction](#Introduction)
-2. Features
-3. Examples
-4. Basic Instruction
-5. Things to Avoid
-6. Installation
-7. Contribute
-8. Support Information
-9. License
+2. [Features](#Features)
+3. [Examples](#Examples)
+4. [Basic Instruction](#BasicInstruction)
+5. [Things to Avoid](#ThingstoAvoid)
+6. [Installation](#Installation)
+7. [Contribute](#Contribute)
+8. [Support Information](#SupportInformation)
+9. [License](#License)
 
 # Introduction
 
