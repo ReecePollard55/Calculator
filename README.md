@@ -2,7 +2,7 @@ Create your very own Calculator!
 
 # Table of contents
 
-1. Introduction
+1. [Introduction](#Introduction)
 2. Features
 3. Examples
 4. Basic Instruction
@@ -14,7 +14,7 @@ Create your very own Calculator!
 
 # Introduction
 
-This is documentation for a program that creates a basic calculator for the user to perform basic mathematical operations. The user will need a working installed java runtime environment to run the calculator for themselves. 
+This is documentation for a program that creates a basic calculator for the user to perform basic mathematical operations. The user will need a working installed Java runtime environment to run the calculator for themselves. 
 
 # Features
 
